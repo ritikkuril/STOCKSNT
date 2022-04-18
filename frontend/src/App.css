@@ -1,0 +1,44 @@
+body{
+  background-color: blue;
+}
+.block {
+  padding: 10px;
+}
+.block-1 {
+  min-height: 300px;
+}
+.block-2 {
+  min-height: 300px;
+}
+.block-3 {
+  min-height: 300px;
+}
+.content-block {
+  background-color:#ddd;
+  height: 100%;
+  width: 100%;
+}
+.main-body {
+  margin: 5px 15px;
+}
+.search-box {
+  color: black;
+  padding: 10px;
+}
+.graph-box {
+  color: black;
+  padding: 10px;
+}
+.cmp-spacebtw {
+  justify-content: space-between;
+  flex-direction: row;
+  display: flex;
+  margin: 10px;
+}
+.data-cell {
+  min-width: 50px;
+}
+
+td, th {
+  border: 1px solid white;
+}
