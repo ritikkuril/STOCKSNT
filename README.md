@@ -6,3 +6,6 @@
 #### Step 3. then cd into frontend directory of the repo and run "npm start"
 #### Step 4. open web browser and go to "http://localhost:3000"
 ###### Project will be up and running.
+![Selection_001](https://user-images.githubusercontent.com/60481045/188470527-b976c7eb-d43f-4519-8044-828e931056dd.png)
+![Selection_002](https://user-images.githubusercontent.com/60481045/188470546-734576bc-3d60-4e5b-815d-caf3fcd79561.png)
+![Selection_004](https://user-images.githubusercontent.com/60481045/188470558-3d704d0a-b307-48b6-a405-7933a507b815.png)
