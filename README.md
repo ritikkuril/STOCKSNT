@@ -13,3 +13,6 @@
 ![Selection_002](https://user-images.githubusercontent.com/60481045/188470546-734576bc-3d60-4e5b-815d-caf3fcd79561.png)
 ## SEARCH HISTORY OF STOCKS
 ![Selection_004](https://user-images.githubusercontent.com/60481045/188470558-3d704d0a-b307-48b6-a405-7933a507b815.png)
+
+## Full View
+![Selection_007](https://user-images.githubusercontent.com/60481045/188471821-5409c7b3-c7a8-4b72-9b1b-5318133c26fd.png)
